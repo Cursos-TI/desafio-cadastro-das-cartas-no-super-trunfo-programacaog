@@ -7,7 +7,7 @@ int populacao2, populacao1, n_pontosturisticos1, n_pontosturisticos2;
 float  area1, area2, pib1, pib2, per, per2;
 
 
-// primeira carta
+// primeira carta:
     printf("Estado 1: \n");
     scanf("%s", &estado1);
 
